@@ -1,0 +1,9 @@
+.idea/
+*.iml
+.vscode/
+
+cert.crt
+cert.key
+
+viewcert
+viewcert.exe
